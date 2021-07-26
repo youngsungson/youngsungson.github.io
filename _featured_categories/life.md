@@ -6,5 +6,5 @@ menu: true
 submenu: true
 order: 1
 description: >
-  살면서 깨달은 아이디어 및 지혜, IT에 관련된 생각, 그리고 평소 쓰고 싶었던 글.  
+  일상에서 느낀 남기는 곳. 글, 여행기, 요리 등 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Statistics & R
-slug: r
+title: Programming
+slug: prog
 category: dev
 menu: false
 order: 1

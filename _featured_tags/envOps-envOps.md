@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: EnvOps
-slug: envOps
-category: envOps
+title: Ubuntu
+slug: ubuntu
+category: ubuntu
 menu: false
 order: 1
 ---

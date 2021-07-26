@@ -3,7 +3,7 @@ layout: post
 title:  "[Jekyll Blog] (개요) 블로그를 만들어 봅시다!"
 subtitle:   "Let's create a blog"
 categories: ubuntu
-tags: envops blog intro   
+tags: ubuntu blog intro   
 comments: true
 ---
 

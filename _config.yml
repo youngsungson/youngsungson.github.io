@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               OrdinaryEngineer
+title:               PlainTechNerd
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -13,7 +13,7 @@ url:                 https://youngsungson.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             "Tech can help people"
+tagline:             "Tech can make world better"
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)

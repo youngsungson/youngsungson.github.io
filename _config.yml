@@ -51,7 +51,7 @@ disqus: True
 disqus_shortname:    youngsungson
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2021.07. by OrdinaryEngineer'
+copyright:           '&copy; 2021.07. by SpeciallessEngineer'
 
 # Format of the permalinks
 permalink:           pretty

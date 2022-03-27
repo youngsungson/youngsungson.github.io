@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Rdbms
-slug: rdbms
+title: Data
+slug: data
 category: dev
 menu: false
 order: 5

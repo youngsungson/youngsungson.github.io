@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Ubuntu
-slug: ubuntu
+title: Thought
+slug: thought
 menu: true
 submenu: false
 order: 2
 description: >
-  Ubuntu 설정,사용 관련 글.  
+  일상의 온갖 잡설.  
 ---

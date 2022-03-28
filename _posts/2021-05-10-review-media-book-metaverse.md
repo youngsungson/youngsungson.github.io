@@ -5,7 +5,7 @@ subtitle:   "뜨고 있는 메타버스를 알아보자"
 categories: review
 tags: review book metabervse
 comments: true
-header-img: img/review2022/20210510-metaberse.png
+header-img: img/review2022/20210510-metaverse.png
 ---
 
 ## 개요

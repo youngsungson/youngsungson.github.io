@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
 title: Media
-slug: review
+slug: media
 category: review
 menu: false
 order: 1

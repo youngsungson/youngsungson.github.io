@@ -20,11 +20,11 @@ header-img:
 
 포항 물회 같은 느낌을 원하면, 초고추장을 더 달라고 해서 넣어야 익숙해 진다. 
 
- ![제주지역식당](https://youngsungson.github.io/assets/img/review/20220222-review-jeju-local1.jpeg)
+ ![제주지역식당](https://youngsungson.github.io/assets/img/review/20220222-review-jeju-local1.jpg)
 
- ![제주지역식당](https://youngsungson.github.io/assets/img/review/20220222-review-jeju-local2.jpeg)
+ ![제주지역식당](https://youngsungson.github.io/assets/img/review/20220222-review-jeju-local2.jpg)
 
- ![제주지역식당](https://youngsungson.github.io/assets/img/review/20220222-review-jeju-local3.jpeg)
+ ![제주지역식당](https://youngsungson.github.io/assets/img/review/20220222-review-jeju-local3.jpg)
  
 
  

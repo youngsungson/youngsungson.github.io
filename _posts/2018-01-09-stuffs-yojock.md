@@ -2,7 +2,7 @@
 layout: post
 title:  "Yojock 45W USB-C PD 충전기"
 subtitle:   "소형 usb-c pd 충전기"
-categories: stuff
+categories: stuffs
 tags: stuff usb-c pd 
 comments: true
 header-img: 

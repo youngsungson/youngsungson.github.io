@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Life
-slug: life
-category: sport
+title: Sports
+slug: sports
+category: life
 menu: false
 order: 3
 ---

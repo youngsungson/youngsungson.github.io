@@ -3,7 +3,7 @@ layout: post
 title:  "[리뷰] 부자들의 음모 - 로버트 기요사키 지음"
 subtitle:   "Conspiracy of the Rich"
 categories: review
-tags: book 로버트기요사키
+tags: book 로버트기요사키 media
 comments: true
 header-img: 
 ---

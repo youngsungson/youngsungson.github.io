@@ -1,6 +1,6 @@
 ---
 layout: tag-blog
-title: Review
+title: Media
 slug: review
 category: review
 menu: false

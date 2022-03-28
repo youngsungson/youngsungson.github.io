@@ -3,7 +3,7 @@ layout: post
 title:  "[리뷰] 끝도 없는 일 깔끔하게 해치우기 - 데이비드 알렌 지음, 공병호 역"
 subtitle:   "GTD - Getting Things Done"
 categories: review
-tags: book gtd
+tags: book gtd media
 comments: true
 header-img: 
 ---

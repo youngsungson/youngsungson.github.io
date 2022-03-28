@@ -17,12 +17,12 @@ header-img:
 
 가장 기본적인 밀면
 
-(https://youngsungson.github.io/assets/img/review/20200803-review-restaurant-coldnoodle1.jpeg)
+![밀면](https://youngsungson.github.io/assets/img/review/20200803-review-restaurant-coldnoodle1.jpeg)
 
 
 비빔밀면
 
-(https://youngsungson.github.io/assets/img/review/20200803-review-restaurant-coldnoodle2.jpeg)
+![비빔밀면](https://youngsungson.github.io/assets/img/review/20200803-review-restaurant-coldnoodle2.jpeg)
 
 
 기대했던 깔끔한 프렌차이즈의 맛.

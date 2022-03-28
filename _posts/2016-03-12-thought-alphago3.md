@@ -28,4 +28,4 @@ header-img:
 
 3국이 기다려진다.
 
-‪#‎AlphaGo‬ ‪#‎이세돌‬
+‪#AlphaGo‬ ‪#이세돌‬

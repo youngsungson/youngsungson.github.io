@@ -8,7 +8,7 @@ comments: true
 header-img: img/thought/20220325-ukraine-war.jpeg
 ---
 
- https://otterletter.com/3-to-1/
+번역 원문 : https://otterletter.com/3-to-1/
  
 페친 Sanghyun Park 님이 번역한 기사를 읽다가 느낀 것이 있어 몇자 적는다. 
 

@@ -10,7 +10,7 @@ header-img:
 
 중산층이 사라진다. 로봇이 온다. 컴퓨터가 직업을 사라지게 한다. 등과 같은 기술 발전이 사회에 미치는 부정적인 영향에 대한 글이 최근에 많이 나오고 있다. 이런 분위기에서 작년에 출판되어 화제가 되었던 "Race Against The Machine: How the Digital Revolution is Accelerating Innovation, Driving Productivity, and Irreversibly Transforming Employment and the Economy"가 "기계와의 경쟁 : 진화하는 기술 사라지는 일자리 인간의 미래는?" 제목으로 번역출판되었다. IT융합기술 전도사인 명지병원 정지훈 소장과 조선비즈 류현정 기자가 번역한 이 책은 제목에서 관심을 끌기 충분했다. 책 표지에서 로봇이 체스말은 옮기는 그림은 기계가 사람을 추월함을 풍자하는 것으로 보인다. IBM의 딥블루가 체스 세계 챔피언을 이긴 사건은 이미 충격이다 보다는 일부 영역에서 로봇과 컴퓨터 기술이 인간의 능력을 넘어서기 시작했다는 것을 상징적으로 보여줬다고 본다.하지만, 그때는 실제 기계가 인간 사회에 미칠 영향에 대해서는 그렇게 고민하지 않았었다.
 
-![Race Against The Machine](https://youngsungson.github.io/assets/img/review/20120923-review-book1.jpeg)
+![Race Against The Machine](https://youngsungson.github.io/assets/img/review/20140502-review-book-robot.jpeg)
 
 Race Against The Machine
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "COVID-19에 대항하는 인공지능 응용 연구 사례 및 발전 방향 - 손영성, 손승아 역"
 subtitle:   "Mapping the Landscape of Artificial Intelligence Applications"
-categories: review
-tags: dev papertoread covid19
+categories: dev
+tags: papertoread covid19
 comments: true
 header-img: 
 ---

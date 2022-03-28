@@ -12,10 +12,10 @@ header-img:
 
 세련된 멋 보다는 아기자기하고 독특한 느낌의 카페가 많다. 
 
-![제주시카페](https://youngsungson.github.io/assets/img/life/20220324-jeju-local-cafe1.jpeg)
+![제주시카페](https://youngsungson.github.io/assets/img/life/20220324-jeju-local-cafe1.jpg)
 
-![제주시카페](https://youngsungson.github.io/assets/img/life/20220324-jeju-local-cafe2.jpeg)
+![제주시카페](https://youngsungson.github.io/assets/img/life/20220324-jeju-local-cafe2.jpg)
 
-![제주시카페](https://youngsungson.github.io/assets/img/life/20220324-jeju-local-cafe3.jpeg)
+![제주시카페](https://youngsungson.github.io/assets/img/life/20220324-jeju-local-cafe3.jpg)
 
-![제주시카페](https://youngsungson.github.io/assets/img/life/20220324-jeju-local-cafe4.jpeg)
+![제주시카페](https://youngsungson.github.io/assets/img/life/20220324-jeju-local-cafe4.jpg)

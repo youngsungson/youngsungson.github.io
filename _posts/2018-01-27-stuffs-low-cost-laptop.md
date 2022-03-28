@@ -32,9 +32,9 @@ Windows10 에 기본으로 들어간 Microsoft Security Essential (이하 MSE) �
 
 이 메뉴를 통해서 3가지를 등록한다
 
-  – 파일 : C:/Program Files/Windows Defender/MsMpEng.exe
-  – 폴더 : C:/Program Files/Windows Defender/
-  – 프로세스 : Antimalware Service Executable
+  * 파일 : C:/Program Files/Windows Defender/MsMpEng.exe
+  * 폴더 : C:/Program Files/Windows Defender/
+  * 프로세스 : Antimalware Service Executable
 
 이렇게 설정하고 재부팅을 하고 작업관리자를 보면 낮은 CPU 점유율을 볼 수 있다.
 

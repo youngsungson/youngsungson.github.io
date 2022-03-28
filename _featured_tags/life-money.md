@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Life
-slug: life
-category: money
+title: Money
+slug: money
+category: life
 menu: false
 order: 2
 ---

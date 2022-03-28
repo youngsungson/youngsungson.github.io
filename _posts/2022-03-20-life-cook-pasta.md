@@ -24,11 +24,11 @@ header-img:
 
 이런게 사는거죠. ㅎㅎ
 
- ![명란파스타](https://youngsungson.github.io/assets/img/life/20220320-life-cook-pasta1.jpeg)
+ ![명란파스타](https://youngsungson.github.io/assets/img/life/20220320-life-cook-pasta1.jpg)
  
- ![명란파스타](https://youngsungson.github.io/assets/img/life/20220320-life-cook-pasta2.jpeg)
+ ![명란파스타](https://youngsungson.github.io/assets/img/life/20220320-life-cook-pasta2.jpg)
  
- ![명란파스타](https://youngsungson.github.io/assets/img/life/20220320-life-cook-pasta3.jpeg)
+ ![명란파스타](https://youngsungson.github.io/assets/img/life/20220320-life-cook-pasta3.jpg)
   
  
  #주말엔면식범

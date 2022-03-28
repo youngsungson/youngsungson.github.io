@@ -24,5 +24,5 @@ header-img:
 
 새로운 에너지를 얻고 새로운 한 주를 시작합니다.
 
-![일을 했으면 성과를 내라](https://youngsungson.github.io/assets/img/review/20110101-review-book-PerformanceWay.jpeg)
+![일을 했으면 성과를 내라](https://youngsungson.github.io/assets/img/review/20110101-review-book-PerformanceWay.jpg)
 

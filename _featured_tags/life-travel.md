@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Life
-slug: life
-category: travel
+title: Travel
+slug: travel
+category: life
 menu: false
 order: 4
 ---

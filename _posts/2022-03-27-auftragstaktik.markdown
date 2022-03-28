@@ -5,9 +5,11 @@ subtitle:   "전쟁/전투에 대한 내용이 많지만 스타트업 특히 스
 categories: thought
 tags: war uklain russia startup auftragstaktik Befehlstaktik
 comments: true
-header-url: https://otterletter.com/3-to-1/
+header-img: img/thought/20220325-ukraine-war.jpeg
 ---
 
+ https://otterletter.com/3-to-1/
+ 
 페친 Sanghyun Park 님이 번역한 기사를 읽다가 느낀 것이 있어 몇자 적는다. 
 
 과거 규모가 중요할 때(Size is matter)에는 전 조직이 하나의 지시에 따라 일사분란하게 움직이고, 그 명령이 하위조직으로 복제(?) 전달 가능한 명령형 전술(Befehlstaktik - command tactics)이 혼란이 없어서, 큰 조직이 무조건 작은 조직을 이기던 시절이 있었다. 과거 제국주의 시절 식민지를 넓혀나갈 때도 그랬고, 냉전시대에 진형 논리를 펼 때도 규모를 서로 맞추기 위해서 노력했었다. 

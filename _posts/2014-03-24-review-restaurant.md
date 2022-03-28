@@ -16,7 +16,7 @@ header-img:
 
 주차가능
 
- ![막국수](https://youngsungson.github.io/assets/img/review/20140324-review-restaurant.jpeg)
+ ![막국수](https://youngsungson.github.io/assets/img/review/20140324-review-restaurant.md.jpeg)
  
 
  

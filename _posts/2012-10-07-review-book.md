@@ -3,7 +3,7 @@ layout: post
 title:  "[리뷰] 나는 거대한 꿈을 꿨다 - 이나리 지음"
 subtitle:   "소프트뱅크 공인 손정의 평전"
 categories: review
-tags: book 손정의
+tags: book 손정의 media
 comments: true
 header-img: 
 ---

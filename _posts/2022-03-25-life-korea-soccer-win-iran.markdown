@@ -8,7 +8,7 @@ comments: true
 header-img: img/life/20220325-soccer.jpeg
 ---
 
-[![하일라이트 영상](https://sports.news.naver.com/video?id=921632/0.jpg)](https://sports.news.naver.com/video?id=921632) 
+[![하일라이트 영상](https://sports.news.naver.com/video?id=921632&t=1)](https://sports.news.naver.com/video?id=921632) 
 
 어제  카타르월드컵 예선전에서 이란을 통쾌하게 2:0으로 이겼다. 
 

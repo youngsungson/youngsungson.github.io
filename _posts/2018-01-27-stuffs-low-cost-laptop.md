@@ -2,7 +2,7 @@
 layout: post
 title:  "저가형 윈도우태블릿 필수 최적 설정"
 subtitle:   "Antimalware Service Executable 예외처리"
-categories: stuff
+categories: stuffs
 tags: stuff windows10 laptop
 comments: true
 header-img: img/stuffs/20180127-stuffs-lowcost-laptop.jpeg

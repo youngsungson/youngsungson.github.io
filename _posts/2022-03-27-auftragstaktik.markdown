@@ -5,7 +5,7 @@ subtitle:   "전쟁/전투에 대한 내용이 많지만 스타트업 특히 스
 categories: thought
 tags: war uklain russia startup auftragstaktik Befehlstaktik
 comments: true
-header-url: img/think/2019-06-25-think-future-ai-1.png
+header-url: https://otterletter.com/3-to-1/
 ---
 
 페친 Sanghyun Park 님이 번역한 기사를 읽다가 느낀 것이 있어 몇자 적는다. 

@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
 title: Restaurant
-slug: review
+slug: restaurant
 category: review
 menu: false
 order: 3

@@ -1,19 +1,9 @@
 ---
 layout: post
-title:  "거대의 제국을 이루던 방식인 Top-down 구조가 더이상 유효하지 않다."
-subtitle:   "전쟁/전투에 대한 내용이 많지만 스타트업 특히 스케일업을 하는 조직에 대한 이야기이다."
-categories: thought
-tags: war uklain russia startup auftragstaktik Befehlstaktik
-comments: true
-header-url: img/think/2019-06-25-think-future-ai-1.png
----
-
----
-layout: post
 title:  "대한민국 숙적 이란을 꺽고 카타르 월드컵 본선 진출 확정"
 subtitle:   "2:0으로 이겼지만 아쉬움이 많은 경기였다"
-categories: thought
-tags: soccer korea iran qatar worldcup 
+categories: life
+tags: soccer korea iran qatar worldcup sports
 comments: true
 header-url: https://sports.news.naver.com/kfootball/vod/index?uCategory=kfootball&category=amatch&id=921632&redirect=true&fbclid=IwAR1tKAteJAO5VMff9ag2CDAF_1cYanxsTQMKhIlkEMsIj-meAVzpY_6hDSI
 ---

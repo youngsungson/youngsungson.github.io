@@ -5,8 +5,10 @@ subtitle:   "2:0으로 이겼지만 아쉬움이 많은 경기였다"
 categories: life
 tags: soccer korea iran qatar worldcup sports
 comments: true
-header-url: https://sports.news.naver.com/kfootball/vod/index?uCategory=kfootball&category=amatch&id=921632&redirect=true&fbclid=IwAR1tKAteJAO5VMff9ag2CDAF_1cYanxsTQMKhIlkEMsIj-meAVzpY_6hDSI
+header-img: img/life/20220325-soccer.jpeg
 ---
+
+https://sports.news.naver.com/kfootball/vod/index?uCategory=kfootball&category=amatch&id=921632&redirect=true
 
 어제  카타르월드컵 예선전에서 이란을 통쾌하게 2:0으로 이겼다. 
 

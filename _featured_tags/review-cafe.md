@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
 title: Cafe
-slug: review
+slug: cafe
 category: review
 menu: false
 order: 2

@@ -19,7 +19,7 @@ header-img:
 
 동시에 5포트에서 8A 충전이 가능해서 아이패드, 넥서스7 태블릿, 아이폰 3개를 동시에 충전 가능하네요.
 
- ![앵커40W](https://youngsungson.github.io/assets/img/stuffs/20140605-stuffs-anker40w.jpeg)
+ ![앵커40W](https://youngsungson.github.io/assets/img/stuffs/20140505-stuffs-anker40w.jpeg)
  
 아마존에서 직구했고 한국 배송으로 $25 정도 했었고 배송까지 2주 정도 걸렸네요.
 

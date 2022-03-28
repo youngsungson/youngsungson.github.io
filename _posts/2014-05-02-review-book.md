@@ -3,7 +3,7 @@ layout: post
 title:  "[리뷰] 기계와의 경쟁 - 에릭 브린욜프슨 지음, 정지훈 류현정 옮김"
 subtitle:   "Race against the machine"
 categories: review
-tags: book gtd media
+tags: book media
 comments: true
 header-img: 
 ---

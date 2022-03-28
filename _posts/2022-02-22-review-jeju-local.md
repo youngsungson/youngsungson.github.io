@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "유성 양반고을 메밀촌"
-subtitle:   "막국수"
+title:  "제주시 자구내"
+subtitle:   "지역식당"
 categories: review
 tags: restaurant
 comments: true

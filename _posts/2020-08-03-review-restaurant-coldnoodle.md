@@ -5,7 +5,7 @@ subtitle:   "여름에는 냉면 대신 시원한 밀면이지"
 categories: review
 tags: review restaurant noodle
 comments: true
-header-img: img/stuffs/20180127-stuffs-lowcost-laptop.jpeg
+header-img: 
 ---
 
 ## 개요
@@ -16,11 +16,11 @@ header-img: img/stuffs/20180127-stuffs-lowcost-laptop.jpeg
 대전 유성 대손관 본점
 
 가장 기본적인 밀면
-img/stuffs/20200803-review-restaurant-coldnoodle1.jpeg
+https://youngsungson.github.io/assets/img/review/20200803-review-restaurant-coldnoodle1.jpeg
 
 
 비빔밀면
-img/stuffs/20200803-review-restaurant-coldnoodle2.jpeg
+https://youngsungson.github.io/assets/img/review/20200803-review-restaurant-coldnoodle2.jpeg
 
 
 기대했던 깔끔한 프렌차이즈의 맛.
@@ -28,5 +28,7 @@ img/stuffs/20200803-review-restaurant-coldnoodle2.jpeg
 하지만, 부산의 투박하고 거친 느낌의 맛은 아님.
 
 전형적인 프렌차이즈 분식점.
+
+평점 : 3/5
 
 #밀면 #면식

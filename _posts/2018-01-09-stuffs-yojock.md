@@ -31,30 +31,30 @@ header-img:
 
 
 
- (https://youngsungson.github.io/assets/img/stuffs/20180109-stuffs-yojock1.webp)
+ ![요조코](https://youngsungson.github.io/assets/img/stuffs/20180109-stuffs-yojock1.webp)
 
- (https://youngsungson.github.io/assets/img/stuffs/20180109-stuffs-yojock2.webp)
+ ![요조코](https://youngsungson.github.io/assets/img/stuffs/20180109-stuffs-yojock2.webp)
 
- (https://youngsungson.github.io/assets/img/stuffs/20180109-stuffs-yojock3.webp)
+ ![요조코](https://youngsungson.github.io/assets/img/stuffs/20180109-stuffs-yojock3.webp)
 
 
 총전류량은 57W로 45W  USB-C PD 방식과 12W USB 로 구성. 아이패드 프로 충전도 가능할 듯.
 
  
 
-https://youngsungson.github.io/assets/img/stuffs/20180109-stuffs-yojock4.webp)
+ ![요조코](https://youngsungson.github.io/assets/img/stuffs/20180109-stuffs-yojock4.webp)
 
 한국, 유럽, 호주 방식의 변환 콘센트를 무료로 제공함. 구입이 선택해야 함. 나름 마감도 좋고 유격 크지 않음
 
  
 
-(https://youngsungson.github.io/assets/img/stuffs/20180109-stuffs-yojock5.webp)
+ ![요조코](https://youngsungson.github.io/assets/img/stuffs/20180109-stuffs-yojock5.webp)
 
 맥북프로 60W 충전기보다 조금 작은 크기임
 
  
 
-(https://youngsungson.github.io/assets/img/stuffs/20180109-stuffs-yojock6.webp)
+ ![요조코](https://youngsungson.github.io/assets/img/stuffs/20180109-stuffs-yojock6.webp)
 
 한국 전원 콘센트에 문제없이 사용할 수 있음
 

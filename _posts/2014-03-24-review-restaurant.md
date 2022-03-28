@@ -2,8 +2,8 @@
 layout: post
 title:  "유성 양반고을 메밀촌"
 subtitle:   "막국수"
-categories: life
-tags: cook
+categories: review
+tags: restaurant
 comments: true
 header-img: 
 ---

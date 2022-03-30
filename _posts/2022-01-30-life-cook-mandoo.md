@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "mandoo"
-subtitle:   "집에서 만두를 만들어 먹자"
+title:  "만두를 만들어 먹자"
+subtitle:   "명절 만두"
 categories: life
 tags: cook
 comments: true

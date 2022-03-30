@@ -8,7 +8,7 @@ comments: true
 header-img: 
 ---
 
-[원글 : ](https://soojin.ro/blog/sw-estimation)
+[원글 : 왜 소프트웨어 개발은 예상보다 2~3배 더 오래 걸리는가?](https://soojin.ro/blog/sw-estimation)
  
 소프트웨어 개발은 참 어렵다. 
 

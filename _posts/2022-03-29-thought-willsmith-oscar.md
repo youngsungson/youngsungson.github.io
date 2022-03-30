@@ -8,7 +8,7 @@ comments: true
 header-img: 
 ---
 
-[BBC News : ](https://www.bbc.com/news/entertainment-arts-60909487)
+[BBC News : Will Smith apologieses to Chris Rock after Oscars slap](https://www.bbc.com/news/entertainment-arts-60909487)
  
 오스카상 시상식에서 배우 윌스미스(Will Smith)가 시상자로  나온 배우겸 코메디언 크리스 록(Chris Rock)의 빰을 때리는 사건이 있었다. 
 

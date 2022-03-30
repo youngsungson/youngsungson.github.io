@@ -27,16 +27,16 @@ header-img:
 원효대사의 일심(一心)사상이 떠오르는 일상에서의 괴로움에서 벗어나는 깊은 깨달음을 느낀다. 
 윌스미스의 빰때기에서도 "나의 아저씨"가 떠울랐는데.. 글밥으로 배를 채울 듯하다.
 
- ![나의 아저씨](https://youngsungson.github.io/assets/img/review/20220330-review-book1.jpeg)
- ![나의 아저씨](https://youngsungson.github.io/assets/img/review/20220330-review-book2.jpeg)
- ![나의 아저씨](https://youngsungson.github.io/assets/img/review/20220330-review-book3.jpeg)
- ![나의 아저씨](https://youngsungson.github.io/assets/img/review/20220330-review-book4.jpeg)
- ![나의 아저씨](https://youngsungson.github.io/assets/img/review/20220330-review-book5.jpeg)
- ![나의 아저씨](https://youngsungson.github.io/assets/img/review/20220330-review-book6.jpeg)
- ![나의 아저씨](https://youngsungson.github.io/assets/img/review/20220330-review-book7.jpeg)
- ![나의 아저씨](https://youngsungson.github.io/assets/img/review/20220330-review-book8.jpeg)
- ![나의 아저씨](https://youngsungson.github.io/assets/img/review/20220330-review-book9.jpeg)
- ![나의 아저씨](https://youngsungson.github.io/assets/img/review/20220330-review-book10.jpeg)
+ ![나의 아저씨](https://youngsungson.github.io/assets/img/review/20220330-review-book1.jpg)
+ ![나의 아저씨](https://youngsungson.github.io/assets/img/review/20220330-review-book2.jpg)
+ ![나의 아저씨](https://youngsungson.github.io/assets/img/review/20220330-review-book3.jpg)
+ ![나의 아저씨](https://youngsungson.github.io/assets/img/review/20220330-review-book4.jpg)
+ ![나의 아저씨](https://youngsungson.github.io/assets/img/review/20220330-review-book5.jpg)
+ ![나의 아저씨](https://youngsungson.github.io/assets/img/review/20220330-review-book6.jpg)
+ ![나의 아저씨](https://youngsungson.github.io/assets/img/review/20220330-review-book7.jpg)
+ ![나의 아저씨](https://youngsungson.github.io/assets/img/review/20220330-review-book8.jpg)
+ ![나의 아저씨](https://youngsungson.github.io/assets/img/review/20220330-review-book9.jpg)
+ ![나의 아저씨](https://youngsungson.github.io/assets/img/review/20220330-review-book10.jpg)
  
  
 

@@ -16,7 +16,7 @@ header-img:
 
 여유를 부릴 수 있을 때 부려보자. 
 
- ![제주지역카페](https://youngsungson.github.io/assets/img/review/20220222-review-cafe-jeju.jpg)
+ ![제주지역카페](https://youngsungson.github.io/assets/img/review/20220222-reivew-cafe-jeju.jpg)
 
  
 

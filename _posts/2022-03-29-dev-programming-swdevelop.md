@@ -8,7 +8,7 @@ comments: true
 header-img: 
 ---
 
-원글 : https://soojin.ro/blog/sw-estimation
+[원글 : ](https://soojin.ro/blog/sw-estimation)
  
 소프트웨어 개발은 참 어렵다. 
 

@@ -15,7 +15,7 @@ header-img:
 약간 비릿한 해물내음을 해방풍으로 잡은 것이 인상적입니다.
 
  ![강문해변](https://youngsungson.github.io/assets/img/review/20211221-review-restaurant-beach1.jpg)
- ![강문해변](https://youngsungson.github.io/assets/img/review/20211221-review-restaurant-beach1.jpg)
+ ![강문해변](https://youngsungson.github.io/assets/img/review/20211221-review-restaurant-beach2.jpg)
  
  
  

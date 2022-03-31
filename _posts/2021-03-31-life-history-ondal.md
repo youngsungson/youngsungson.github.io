@@ -73,8 +73,9 @@ header-img:
 
 자. 여기에 가설을 하나 보텐다. 
 
-   나는 온달이 투르크 포로였다고 본다. 
-   ![온달](https://youngsungson.github.io/assets/img/life/history/20210331-ondal8.jpeg)
+나는 온달이 투르크 포로였다고 본다. 
+
+![온달](https://youngsungson.github.io/assets/img/life/history/20210331-ondal8.jpeg)
 
 
 

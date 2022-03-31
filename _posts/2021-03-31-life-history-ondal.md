@@ -14,7 +14,7 @@ header-img:
 
 이야기 내용만 보면 디즈니에서 애니메이션으로 만들어도 될 만한 스토리 설정과 전개이다. 결말이 좀 아쉽지만.. 디즈니라면 아름답게 잘 각색하겠지? 
  
- ![온달전 인물관계도](https://youngsungson.github.io/assets/img/life/history/20210330-ondal2.jpeg)
+ ![온달전 인물관계도](https://youngsungson.github.io/assets/img/life/history/20210331-ondal2.jpeg)
 
 그런데, 이 온달 이야기가 삼국사기에 기록되어 있는 역사적 사실이라는게 주목할 포인트이다. 
 
@@ -22,7 +22,7 @@ header-img:
 
 사실 삼국사기의 온달전은 광개토대왕, 을지문덕, 김유신 급으로 기록이 되어있다는게 특징이다. 
 
-![삼국사기 온달전](https://youngsungson.github.io/assets/img/life/history/20210330-ondal1.jpeg)
+![삼국사기 온달전](https://youngsungson.github.io/assets/img/life/history/20210331-ondal1.jpeg)
 
 온달 이야기를 역사적 사실로 본다면, 왜 김부식이 이런 연애 소설을 삼국사기 정사에 기록을 했는지가 궁금해진다. 
 
@@ -38,8 +38,8 @@ header-img:
 
 평원왕이 즉위하는 시점을 살펴보자. 
 
-![정치상황](https://youngsungson.github.io/assets/img/life/history/20210330-ondal3.jpeg)
-![정치상황](https://youngsungson.github.io/assets/img/life/history/20210330-ondal4.jpeg)
+![정치상황](https://youngsungson.github.io/assets/img/life/history/20210331-ondal3.jpeg)
+![정치상황](https://youngsungson.github.io/assets/img/life/history/20210331-ondal4.jpeg)
 
 평원왕은 광개토왕-장수왕 이후 문자명왕, 안장왕, 안원왕, 양원왕 이후 즉위한 왕으로서, 
 
@@ -51,7 +51,7 @@ header-img:
 
 일본서기에서는 안왕이 피살되었다는 기록도 있어 왕권이 미약했던 것으로 추측된다. 
 
-![온달](https://youngsungson.github.io/assets/img/life/history/20210330-ondal5.jpeg)
+![온달](https://youngsungson.github.io/assets/img/life/history/20210331-ondal5.jpeg)
 
 온달은 어떤 사람일까? 
 
@@ -74,7 +74,7 @@ header-img:
 자. 여기에 가설을 하나 보텐다. 
 
    나는 온달이 투르크 포로였다고 본다. 
-   ![온달](https://youngsungson.github.io/assets/img/life/history/20210330-ondal8.jpeg)
+   ![온달](https://youngsungson.github.io/assets/img/life/history/20210331-ondal8.jpeg)
 
 
 
@@ -96,9 +96,9 @@ header-img:
 
 왕을 능가하는 실질적인 지배세력인 귀족과의 약혼이 되어있어죠. 
 
- ![온달](https://youngsungson.github.io/assets/img/life/history/20210330-ondal6.jpeg)
+ ![온달](https://youngsungson.github.io/assets/img/life/history/20210331-ondal6.jpeg)
  
- ![온달](https://youngsungson.github.io/assets/img/life/history/20210330-ondal7.jpeg)
+ ![온달](https://youngsungson.github.io/assets/img/life/history/20210331-ondal7.jpeg)
 
 그런데, 설화대로 평강공주가 온달과 결혼하게 되죠. 평원왕은 반대했다고 하지만.. 정치적으로는 공주의 일탈이라고 변명을 했을 수도 있다고 봅니다.
 
@@ -110,7 +110,7 @@ header-img:
 
 온달도 바로 제거되는 것으로 봐서... 아마도 이기지 못할 전쟁터로 내몰린 것이 아닌가 싶습니다.
 
-![온달요약](https://youngsungson.github.io/assets/img/life/history/20210330-ondal9.jpeg)
+![온달요약](https://youngsungson.github.io/assets/img/life/history/20210331-ondal9.jpeg)
 
 ...
 
@@ -123,13 +123,8 @@ header-img:
 하지만, 이 시도는 곧 연개소문의 쿠데타로 이어지게 됩니다. (이건 다음 기회에...)
 
  
-
  
-
- 
- 
- 
- ![온달 참고자료](https://youngsungson.github.io/assets/img/life/history/20210330-ondal10.jpeg)
+ ![온달 참고자료](https://youngsungson.github.io/assets/img/life/history/20210331-ondal10.jpeg)
  
   
  

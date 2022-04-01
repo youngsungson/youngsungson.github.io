@@ -14,8 +14,8 @@ header-img:
 
 큰 꿈을 갖고 시작하는 흥미로운 이야기들... 
 
- ![파티](https://youngsungson.github.io/assets/img/life/20210418-life-cook-party1.jpg)
- ![파티](https://youngsungson.github.io/assets/img/life/20210418-life-cook-party2.jpg)
- ![파티](https://youngsungson.github.io/assets/img/life/20210418-life-cook-party3.jpg)
- ![파티](https://youngsungson.github.io/assets/img/life/20210418-life-cook-party4.jpg)
- ![파티](https://youngsungson.github.io/assets/img/life/20210418-life-cook-party5.jpg)
+ ![파티](https://youngsungson.github.io/assets/img/life/cook/20210418-life-cook-party1.jpg)
+ ![파티](https://youngsungson.github.io/assets/img/life/cook/20210418-life-cook-party2.jpg)
+ ![파티](https://youngsungson.github.io/assets/img/life/cook/20210418-life-cook-party3.jpg)
+ ![파티](https://youngsungson.github.io/assets/img/life/cook/20210418-life-cook-party4.jpg)
+ ![파티](https://youngsungson.github.io/assets/img/life/cook/20210418-life-cook-party5.jpg)

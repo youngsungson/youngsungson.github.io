@@ -24,12 +24,12 @@ header-img:
 
  눈감을 수 밖에
 
- ![옥천 정지용 박물관](https://youngsungson.github.io/assets/img/life/20210418-life-travel-okcheon1.jpg)
- ![옥천 정지용 박물관](https://youngsungson.github.io/assets/img/life/20210418-life-travel-okcheon2.jpg)
- ![옥천 정지용 박물관](https://youngsungson.github.io/assets/img/life/20210418-life-travel-okcheon3.jpg)
- ![옥천 정지용 박물관](https://youngsungson.github.io/assets/img/life/20210418-life-travel-okcheon4.jpg)
- ![옥천 정지용 박물관](https://youngsungson.github.io/assets/img/life/20210418-life-travel-okcheon5.jpg)
- ![옥천 정지용 박물관](https://youngsungson.github.io/assets/img/life/20210418-life-travel-okcheon6.jpg)
+ ![옥천 정지용 박물관](https://youngsungson.github.io/assets/img/life/travel/20210418-life-travel-okcheon1.jpg)
+ ![옥천 정지용 박물관](https://youngsungson.github.io/assets/img/life/travel/20210418-life-travel-okcheon2.jpg)
+ ![옥천 정지용 박물관](https://youngsungson.github.io/assets/img/life/travel/20210418-life-travel-okcheon3.jpg)
+ ![옥천 정지용 박물관](https://youngsungson.github.io/assets/img/life/travel/20210418-life-travel-okcheon4.jpg)
+ ![옥천 정지용 박물관](https://youngsungson.github.io/assets/img/life/travel/20210418-life-travel-okcheon5.jpg)
+ ![옥천 정지용 박물관](https://youngsungson.github.io/assets/img/life/travel/20210418-life-travel-okcheon6.jpg)
  
  
  

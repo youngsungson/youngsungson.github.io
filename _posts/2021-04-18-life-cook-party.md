@@ -36,3 +36,8 @@ header-img:
  ![파티](https://youngsungson.github.io/assets/img/life/cook/20210418-life-cook-party3.jpg)
  ![파티](https://youngsungson.github.io/assets/img/life/cook/20210418-life-cook-party4.jpg)
  ![파티](https://youngsungson.github.io/assets/img/life/cook/20210418-life-cook-party5.jpg)
+ 
+ 동시에 여러 요리를 준비하느라 정신이 좀 없긴했다. 
+ 
+ 다행히 별다른 실수없이 잘 준비했다. 
+ 

@@ -18,13 +18,13 @@ header-img:
 
 재구매 의사 있습니다.
 
- ![포르투칼와인](https://youngsungson.github.io/assets/img/life/cook/20211124-life-cook-wine1)
+ ![포르투칼와인](https://youngsungson.github.io/assets/img/life/cook/20211124-life-cook-wine1.jpg)
  
- ![포르투칼와인](https://youngsungson.github.io/assets/img/life/cook/20211124-life-cook-wine2)
+ ![포르투칼와인](https://youngsungson.github.io/assets/img/life/cook/20211124-life-cook-wine2.jpg)
  
- ![포르투칼와인](https://youngsungson.github.io/assets/img/life/cook/20211124-life-cook-wine3)
+ ![포르투칼와인](https://youngsungson.github.io/assets/img/life/cook/20211124-life-cook-wine3.jpg)
  
- ![포르투칼와인](https://youngsungson.github.io/assets/img/life/cook/20211124-life-cook-wine4)
+ ![포르투칼와인](https://youngsungson.github.io/assets/img/life/cook/20211124-life-cook-wine4.jpg)
  
  
  

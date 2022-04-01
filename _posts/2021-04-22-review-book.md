@@ -1,12 +1,14 @@
 ---
 layout: post
 title:  "[리뷰] 읽지 않은 책에 대해 말하는 법"
-subtitle:   "소프트뱅크 공인 손정의 평전"
+subtitle:   "교양을 쌓자."
 categories: review
-tags: book 손정의 media
+tags: book 
 comments: true
-header-img: img/review/20210422-review-book.jpg
+header-img: 
 ---
+
+![읽지않은책에 대해 말하는 법](https://youngsungson.github.io/assets/img/review/20210426-review-book.jpg)
 
 오늘 이 책에 대해서 지인들의 관심이 폭발하고 있다.. 
 

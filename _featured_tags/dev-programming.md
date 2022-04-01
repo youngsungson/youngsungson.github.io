@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
 title: Programming
-slug: prog
+slug: programming
 category: dev
 menu: false
 order: 1

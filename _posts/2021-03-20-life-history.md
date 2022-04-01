@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "무령왕릉 발굴 50주년 전시회"
-subtitle:   "충남 공주에서 발견된 중국 양나라 양식의 전축분, 무령왕릉 발굴된지 50년이 지났다."
+title:  "대전을 둘러싼 40개의 산성"
+subtitle:   "대전 계족산성의 국적 논란"
 categories: life
 tags: history
 comments: true

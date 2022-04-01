@@ -8,7 +8,7 @@ comments: true
 header-img: 
 ---
 
-![읽지않은책에 대해 말하는 법](https://youngsungson.github.io/assets/img/review/20210426-review-book.jpg)
+![읽지않은책에 대해 말하는 법](https://youngsungson.github.io/assets/img/review/20210422-review-book.jpg)
 
 오늘 이 책에 대해서 지인들의 관심이 폭발하고 있다.. 
 

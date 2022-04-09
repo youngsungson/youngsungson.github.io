@@ -17,5 +17,5 @@ header-img:
 
 
 
-![스틱](https://youngsungson.github.io/assets/img/review/20150425-review-book-stick1.jpg)
-![스틱](https://youngsungson.github.io/assets/img/review/20150425-review-book-stick2.jpg)
+![스틱](https://youngsungson.github.io/assets/img/review/20150425-review-book1.jpg)
+![스틱](https://youngsungson.github.io/assets/img/review/20150425-review-book2.jpg)

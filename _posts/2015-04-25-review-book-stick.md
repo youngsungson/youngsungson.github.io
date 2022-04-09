@@ -3,7 +3,7 @@ layout: post
 title:  "[리뷰] 스틱 "
 subtitle:   "stick"
 categories: review
-tags: book media
+tags: book media engineer
 comments: true
 header-img: 
 ---
@@ -19,3 +19,5 @@ header-img:
 
 ![스틱](https://youngsungson.github.io/assets/img/review/20150425-review-book1.jpg)
 ![스틱](https://youngsungson.github.io/assets/img/review/20150425-review-book2.jpg)
+
+#공돌이 #스틱 #stick

@@ -15,7 +15,7 @@ header-img:
 > HP 연구진은 기술을 한계까지 끌려올려 복잡하고 정교한 제품을 만드는데 열광했다. 
 > 반대로 고객들은 간단하고 신뢰할 수 있는 제품을 선호했다.
 
-
+by 스틱
 
 ![스틱](https://youngsungson.github.io/assets/img/review/20150425-review-book1.jpg)
 ![스틱](https://youngsungson.github.io/assets/img/review/20150425-review-book2.jpg)

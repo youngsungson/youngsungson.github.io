@@ -14,8 +14,7 @@ header-img:
 >
 > p.28 게으름으로 보이는 것은 종종 탈진의 문제다.
   
-
-스위치
+by 스위치
 
 ![스위치](https://youngsungson.github.io/assets/img/review/20150503-review-book1.jpg)
 ![스위치](https://youngsungson.github.io/assets/img/review/20150503-review-book2.jpg)

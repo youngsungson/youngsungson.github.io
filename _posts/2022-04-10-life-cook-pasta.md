@@ -13,7 +13,7 @@ header-img:
 
 #주말은면식범
 
- ![파스타](https://youngsungson.github.io/assets/img/life/cook/20220410-life-cook-pasta.jpeg)
+ ![파스타](https://youngsungson.github.io/assets/img/life/cook/20220410-life-cook-pasta.jpg)
  
  
  

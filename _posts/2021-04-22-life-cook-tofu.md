@@ -16,9 +16,9 @@ header-img:
 
 #집밥
 
- ![마파두부](https://youngsungson.github.io/assets/img/life/cook/20220422-life-cook-tofu1.jpg)
+ ![마파두부](https://youngsungson.github.io/assets/img/life/cook/20210422-life-cook-tofu1.jpg)
  
- ![마파두부](https://youngsungson.github.io/assets/img/life/cook/20220422-life-cook-tofu1.jpg)
+ ![마파두부](https://youngsungson.github.io/assets/img/life/cook/20210422-life-cook-tofu1.jpg)
  
  
  

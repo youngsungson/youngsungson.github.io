@@ -16,13 +16,13 @@ header-img:
 
 ㅎㅎ
 
- ![소시지전과꼬막구침](https://youngsungson.github.io/assets/img/life/cook/2022505-life-cook-jeon1.jpg)
+ ![소시지전과꼬막구침](https://youngsungson.github.io/assets/img/life/cook/20220505-life-cook-jeon1.jpg)
  
- ![소시지전과꼬막구침](https://youngsungson.github.io/assets/img/life/cook/2022505-life-cook-jeon2.jpg)
+ ![소시지전과꼬막구침](https://youngsungson.github.io/assets/img/life/cook/20220505-life-cook-jeon2.jpg)
  
- ![소시지전과꼬막구침](https://youngsungson.github.io/assets/img/life/cook/2022505-life-cook-jeon3.jpg)
+ ![소시지전과꼬막구침](https://youngsungson.github.io/assets/img/life/cook/20220505-life-cook-jeon3.jpg)
  
- ![소시지전과꼬막구침](https://youngsungson.github.io/assets/img/life/cook/2022505-life-cook-jeon4.jpg)
+ ![소시지전과꼬막구침](https://youngsungson.github.io/assets/img/life/cook/20220505-life-cook-jeon4.jpg)
  
  
  

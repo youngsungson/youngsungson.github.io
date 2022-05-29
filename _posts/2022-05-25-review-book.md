@@ -10,7 +10,7 @@ header-img:
 
 제목 : 보이지 않는 중국
 
-원제 : Fully Automated Luxury Communism
+원제 : Invisible China
 
 > 스탠포드 정책연구소 스콧 로젤의 중국의 안보이는 곳(농촌)의 현실을 고발하는 책 "보이지 않는 중국, Invisible China" 을 소개했습니다.
 

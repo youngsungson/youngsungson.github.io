@@ -3,7 +3,7 @@ layout: post
 title:  "[리뷰] 완전히 자동화된 화려한 공산주의 "
 subtitle:   "Fully Automated Luxury Communism"
 categories: review
-tags: book communism AI
+tags: book communism AI media
 comments: true
 header-img: 
 ---

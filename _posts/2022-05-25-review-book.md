@@ -3,7 +3,7 @@ layout: post
 title:  "[리뷰] 보이지 않는 중국 "
 subtitle:   "Invisible China"
 categories: review
-tags: book china
+tags: book china media
 comments: true
 header-img: 
 ---

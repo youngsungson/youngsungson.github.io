@@ -3,7 +3,7 @@ layout: post
 title:  "[리뷰] 미네르바의 생존 경제학"
 subtitle:   "Survival Economy of Minerva"
 categories: review
-tags: book economy
+tags: book economy media
 comments: true
 header-img: 
 ---

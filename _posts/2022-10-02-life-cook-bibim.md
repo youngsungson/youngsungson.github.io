@@ -19,9 +19,9 @@ header-img:
 괜찮네요.
 
 
- ![삼양비빔밀면](https://youngsungson.github.io/assets/img/life/cook/20221002-life-cook-bibim1.jepg)
+ ![삼양비빔밀면](https://youngsungson.github.io/assets/img/life/cook/20221002-life-cook-bibim1.jpeg)
  
- ![삼양비빔밀면](https://youngsungson.github.io/assets/img/life/cook/20221002-life-cook-bibim2.jepg)
+ ![삼양비빔밀면](https://youngsungson.github.io/assets/img/life/cook/20221002-life-cook-bibim2.jpeg)
  
 #주말엔면식범  
  

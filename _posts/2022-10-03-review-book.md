@@ -36,6 +36,6 @@ header-img:
 크게 기대했던 것과는 달리 그리 인상적인 내용은 눈에 띄지 않지만, 중국 정치 상황 및 경제 상황을 이해하는데 잘 정리되어 있고.. 
 무엇보다도 향후 발생할 수 있는 미-중 갈등과 중국의 대만 침공이라는 두가지 시나리오를 예상하는 좋은 레퍼런스로 충분하다. 
 
-![차이나 쇼크, 한국의 선택](https://youngsungson.github.io/assets/img/review/20221003-review-book-chinashock.jpg)
+![차이나 쇼크, 한국의 선택](https://youngsungson.github.io/assets/img/review/20221003-review-book-chinashock.jpeg)
 
 #중국 #세계경제 

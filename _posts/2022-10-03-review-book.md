@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "[리뷰] 차이나 쇼크, 한국의 선택"
-subtitle:   "China Shock, Korea's Decision"
+title: [리뷰] 차이나 쇼크, 한국의 선택 - 한청휜 지음
+subtitle: China Shock, Korea's Decision
 categories: review
 tags: book china media
 comments: true

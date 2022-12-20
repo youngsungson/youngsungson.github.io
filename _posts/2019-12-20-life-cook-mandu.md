@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "홈메이드 쟈니덤블링"
+subtitle:   "mandu"
+categories: life
+tags: cook
+comments: true
+header-img: 
+---
+
+만두가 머꼬 시퍼졌다. 
+쟈니덤블링을 만들어 본다.
+낮은 불로 냉동 만두를 오래 굽다가..
+밀가루물로 데꼬를 한다. 
+상상한 대로 만들어졌다. 
+이렇게 행복을 하나 만들어 본다. 
+
+ ![홈메이드 쟈니덤블링](https://youngsungson.github.io/assets/img/life/cook/20191220-life-cook-mandu.jpeg)

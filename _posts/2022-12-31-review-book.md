@@ -20,6 +20,12 @@ AI 발전이 인상적이었던 2022년이라..
 기술이야 많은 연구자분들이 잘 하실 것이라 믿고.. (사실 능력이 안되어.. 쩝)
 AI 연구 윤리와 미칠 수 있는 영향에 대해서 몇 권 읽었네요.
 
+
+![2022년 도서 목록](https://youngsungson.github.io/assets/img/review/20221231-review-book1.jpg)
+![2022년 도서 목록](https://youngsungson.github.io/assets/img/review/20221231-review-book2.jpg)
+![2022년 도서 목록](https://youngsungson.github.io/assets/img/review/20221231-review-book3.jpg)
+
+
 포스트 프라이버시 경제 - 안드레아스 와이젠드
 
 > 빅데이터 시대에 개인 정보(프라이버스)를 보호하는 것은 불가능하다. 기업과 정부에 과감하게 내어주고 더 많은 것(?)을 얻어라.
@@ -93,10 +99,6 @@ SF 연대기 - 셰릴 빈트, 마크 볼드
 
 월드컵을 준비하느라 축구 관련 책도 몇 권 읽었는데..
 월드컵 경기를 제대로 못 봐서 .. 패스~
-
-![2022년 도서 목록](https://youngsungson.github.io/assets/img/review/20221231-review-book1.jpg)
-![2022년 도서 목록](https://youngsungson.github.io/assets/img/review/20221231-review-book2.jpg)
-![2022년 도서 목록](https://youngsungson.github.io/assets/img/review/20221231-review-book3.jpg)
 
 #도서 #2022
 

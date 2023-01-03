@@ -24,11 +24,11 @@ header-img:
 
 대전과 옥천 근처의 엄청난 수의 산성 
 
-![옥천산성](https://youngsungson.github.io/assets/img/thought/20220104-thought-CES2022.jpg)
+![옥천산성](https://youngsungson.github.io/assets/img/history/20210320-history-okcheon.jpg)
 
 역사학계의 보다 깊은 연구를 촉구합니다.
 
- [대전 계족산성의 국적논란](https://www.khan.co.kr/view.html?art_id=200604301720541&sec_id=960201#c2b)
+[대전 계족산성의 국적논란](https://www.khan.co.kr/view.html?art_id=200604301720541&sec_id=960201#c2b)
  
  
     

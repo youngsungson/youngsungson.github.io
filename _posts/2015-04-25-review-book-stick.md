@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[리뷰] 스틱 "
+title:  "[리뷰] 스틱"
 subtitle:   "stick"
 categories: review
 tags: book media engineer

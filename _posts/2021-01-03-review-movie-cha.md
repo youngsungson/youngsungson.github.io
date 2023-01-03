@@ -8,7 +8,7 @@ comments: true
 header-img: 
 ---
 
-![차인표](https://youngsungson.github.io/assets/img/review/2021-review-cha.jpg)
+![차인표](https://youngsungson.github.io/assets/img/review/20210103-review-cha.jpg)
 
 영화 차인표를 보다.
 

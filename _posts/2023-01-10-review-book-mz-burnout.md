@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[리뷰] 번아웃 세대 - 권은선 지음"
+title: "[리뷰] 번아웃 세대 - 권연선 지음"
 subtitle: "MZ세대 번아웃, 누구의 책임인가?"
 categories: review
 tags: book mz media burnout
